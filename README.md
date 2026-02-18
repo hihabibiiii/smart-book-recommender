@@ -1,3 +1,6 @@
+🚀 Live Demo
+https://smart-book-recommender-4pddvc2gf3frretdftbyj4.streamlit.app/
+
 # 📚 Smart Book Recommender
 
 A content-based book recommendation system built using **TF-IDF** and **cosine similarity** with an interactive **Streamlit UI**.
