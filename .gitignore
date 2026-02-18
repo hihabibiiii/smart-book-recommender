@@ -1,0 +1,12 @@
+# Ignore model files
+model/*.pkl
+
+# OR only similarity file
+model/similarity.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
